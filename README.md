@@ -1,1 +1,1 @@
-# exercicio_kmeans_dadosTabulares
+Este caso requer o desenvolvimento de uma segmentação de clientes para definir a estratégia de marketing. O conjunto de dados da amostra resume o comportamento de uso de cerca de 9.000 portadores de cartão de crédito ativos durante os últimos 6 meses. O arquivo está no nível do cliente com 18 variáveis comportamentais.
