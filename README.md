@@ -1,0 +1,1 @@
+# exercicio_kmeans_dadosTabulares
